@@ -231,7 +231,7 @@ footer{
     align-items: center;
     gap: 2rem;
   }
-  .heroImg {
+  .heroimg {
     width: 400px;
   }
   .name,
@@ -258,7 +258,7 @@ footer{
   .light {
     width: 60px;
   }
-  .aboutMeImg {
+  .aboutMe img {
     width: 400px;
   }
   .Works {
